@@ -13,6 +13,10 @@ footer{
     width: 900px;
     text-align: center;
 }
-body{
+html{
     background-color: salmon;
+}
+.image{
+    border: 1px blue;
+    border-radius: 2px;
 }
