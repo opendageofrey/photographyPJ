@@ -2,7 +2,7 @@
 #### This is an art gallery museum and photography website that enables the user to connect to an environment they're yet to experience or did. Create your inspiration as you scroll through.
 #### By Openda Geofrey
 ## This website striclty depends on html and css as of the moment but  in due time advancements will be made
-![](roughsampledraft.jpg)
+![](./roughsampledraft.jpg)
 none
 ## Technologies Used
 html, css
